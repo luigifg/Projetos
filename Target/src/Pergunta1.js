@@ -1,5 +1,4 @@
 console.log("\n");
-console.log("Questão 2)");
 
 let INDICE = 13, SOMA = 0, K = 0;
 
